@@ -1,5 +1,5 @@
-# Narval
-Narval Project
+# Artemisia
+Artemisia Project
 
 ## LICENSE  
 MIT
